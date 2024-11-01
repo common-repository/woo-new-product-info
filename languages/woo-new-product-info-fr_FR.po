@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce new product info\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-21 09:39+0000\n"
+"PO-Revision-Date: 2020-05-29 08:42+0000\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Last-Translator: motpr355\n"
+"X-Loco-Version: 2.3.3; wp-4.9.13"
+
+#: woo-new-product-info.php:219 woo-new-product-info.php:220 html/admin.php:9
+msgid "New product info"
+msgstr "Info nouveau produit"
+
+#: woo-new-product-info.php:266
+msgid "WooCommerce must be actived"
+msgstr "Le plugin WooCommerce doit être activé"
+
+#: woo-new-product-info.php:270
+msgid "WooCommerce must be installed"
+msgstr "Le plugin WooCommerce doit être installé"
+
+#. Description of the plugin
+#: html/admin.php:12
+msgid ""
+"Differentiate WooCommerce new products by displaying a customizable \"New\" "
+"tag."
+msgstr ""
+"DIfférencier les nouveaux produits WooCommerce en affichant un tag "
+"\"Nouveau\" personnalisable."
+
+#: html/admin.php:17
+msgid "Please activate JavaScript to edit the configuration."
+msgstr "Merci d'activer JavaScript pour éditer la configuration."
+
+#: html/admin.php:25
+msgid "Configuration saved."
+msgstr "Configuration sauvegardée."
+
+#: html/admin.php:34
+msgid "Activate functionality:"
+msgstr "Activer la fonctionnalité :"
+
+#: html/admin.php:42
+msgid "Activate"
+msgstr "Activer"
+
+#: html/admin.php:54
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: html/admin.php:62
+msgid "Consider a product as new during:"
+msgstr "Considérer un produit comme nouveau pendant :"
+
+#: html/admin.php:66
+msgid "1 day"
+msgstr "1 jour"
+
+#: html/admin.php:68
+#, php-format
+msgid "%d days"
+msgstr "%d jours"
+
+#: html/admin.php:76
+msgid "Text:"
+msgstr "Texte :"
+
+#: html/admin.php:83 html/admin.php:242 html/website.php:10
+msgid "New"
+msgstr "Nouveau"
+
+#: html/admin.php:89 html/website.php:12
+msgid "New!"
+msgstr "Nouveau !"
+
+#: html/admin.php:95
+msgid "Background color:"
+msgstr "Couleur du fond :"
+
+#: html/admin.php:105
+msgid "Color:"
+msgstr "Couleur :"
+
+#: html/admin.php:115
+msgid "Font weight:"
+msgstr "Police d'écriture :"
+
+#: html/admin.php:122
+msgid "Normal"
+msgstr "Normal"
+
+#: html/admin.php:128
+msgid "Bold"
+msgstr "Gras"
+
+#: html/admin.php:134
+msgid "Text transform:"
+msgstr "Transformation du texte :"
+
+#: html/admin.php:141
+msgid "None"
+msgstr "Aucune"
+
+#: html/admin.php:147
+msgid "Lowercase"
+msgstr "Minuscule"
+
+#: html/admin.php:153
+msgid "Uppercase"
+msgstr "Majuscule"
+
+#: html/admin.php:159
+msgid "Position in product list:"
+msgstr "Position sur la liste des produits :"
+
+#: html/admin.php:167
+msgid "Before the name product"
+msgstr "Avant le nom du produit"
+
+#: html/admin.php:175 html/admin.php:206
+msgid "After the name product"
+msgstr "Après le nom du produit"
+
+#: html/admin.php:183
+msgid "After the \"Read more\" button"
+msgstr "Après le bouton \"Lire la suite\""
+
+#: html/admin.php:191 html/admin.php:230
+msgid "Don't display"
+msgstr "Ne pas afficher"
+
+#: html/admin.php:198
+msgid "Position in product page:"
+msgstr "Position sur la page du produit :"
+
+#: html/admin.php:214
+msgid "After the price"
+msgstr "Après le prix"
+
+#: html/admin.php:222
+msgid "After the \"Add to cart\" button"
+msgstr "Après le bouton \"Ajouter au panier\""
+
+#: html/admin.php:238
+msgid "Preview:"
+msgstr "Prévisualisation :"
+
+#: html/admin.php:252
+msgid "Save configuration"
+msgstr "Sauvegarder la configuration"
+
+#. Name of the plugin
+msgid "WooCommerce new product info"
+msgstr "WooCommerce info nouveau produit"
+
+#. Author of the plugin
+msgid "Motpr355"
+msgstr "Motpr355"
